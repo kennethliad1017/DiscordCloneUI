@@ -13,11 +13,9 @@
 
 ## Screenshots
 
-Left Drawer Screen|Main Screen|Right Drawer Screen
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="readme_assets/overlapping_panels_left.png" width=240 /> |
-<IMG SRC="readme_assets/overlapping_panels_center.png" width=240 /> |
-<IMG src="readme_assets/overlapping_panels_right.png" width=240 />
+Left Drawer|Home Screen|Right Drawer
+:-------------------------:|:-------------------------:|:-------------------------: 
+<img src="./readme_assets/overlapping_panels_left.png" width=240 />|<img src="./readme_assets/overlapping_panels_center.png" width=240 />|<img src="./readme_assets/overlapping_panels_right.png" width=240 />
 
 ## Technologies
 
