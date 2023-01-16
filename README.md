@@ -16,8 +16,8 @@
 Left Drawer Screen| Main Screen |Right Drawer Screen|
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="readme_assets/overlapping_panels_left.png" width=240 /> |
-<IMG SRC="readme_assets/overlapping_panels_center.pngCenter Panel" /> |
-<IMG src="readme_assets/overlapping_panels_right.png" />
+<IMG SRC="readme_assets/overlapping_panels_center.pngCenter Panel" width=240 /> |
+<IMG src="readme_assets/overlapping_panels_right.png" width=240 />
 ## Technologies
 
 - [React Native (Expo)](https://docs.expo.dev/get-started/installation/)
