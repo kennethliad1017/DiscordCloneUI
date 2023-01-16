@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-Left Drawer Screen|Main Screen|Right Drawer Screen|
+Left Drawer Screen|Main Screen|Right Drawer Screen
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="readme_assets/overlapping_panels_left.png" width=240 /> |
 <IMG SRC="readme_assets/overlapping_panels_center.png" width=240 /> |
